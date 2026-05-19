@@ -1,0 +1,3 @@
+[2026-04-24 11:05:44] | NOMBRE: Kevin Ontaneda | CED: 1727323857 | EMAIL: kevin@gmail.com | TEL: 0996170007 | MSJ: jfksenkjes
+[2026-04-24 11:30:37] | NOMBRE: Kevin Ontaneda | CED: 1727323857 | EMAIL: kevin@gmail.com | TEL: 0996170007 | MSJ: jbkSFIU
+[2026-04-24 11:51:08] | NOMBRE: esteban valdez | CED: 1726327412 | EMAIL: daniel@5412 | TEL: 0978971751 | MSJ: tjhgfbdv
